@@ -1,1 +1,1 @@
-we are using linear regression
+we are using linear regression algorithm
