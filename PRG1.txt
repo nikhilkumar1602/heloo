@@ -1,1 +1,1 @@
-XYZ  company project on machine learning algorithms
+XYZ  company project using machine learning algorithms
