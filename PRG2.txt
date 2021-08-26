@@ -1,1 +1,1 @@
-Supervised learning algorithm is used
+Supervised learning algorithm will be used
