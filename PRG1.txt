@@ -1,1 +1,1 @@
-XYZ  company are making project using machine learning algorithms for prediction purpose
+XYZ  company are making project using machine learning algorithms 
