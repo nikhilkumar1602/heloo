@@ -1,1 +1,1 @@
-Supervised learning algorithm will be used to develop our model
+Supervised learning algorithm will be used to develop our model our data
